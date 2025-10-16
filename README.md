@@ -51,3 +51,4 @@ data class Station(
     val alcoholPrice: Double,
     val gasPrice: Double
 )
+
