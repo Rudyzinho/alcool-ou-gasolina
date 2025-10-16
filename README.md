@@ -41,7 +41,7 @@ Facilitar a escolha do combustível mais econômico, permitindo que o usuário:
 
 ---
 
-## 🗂 Estrutura do Código
+##  Estrutura do Código
 
 ### 1. **Data Classes**
 ```kotlin
